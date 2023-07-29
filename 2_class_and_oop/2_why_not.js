@@ -1,0 +1,1 @@
+let sungGyu = '정지현'
